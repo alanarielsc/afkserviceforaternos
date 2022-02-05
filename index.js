@@ -21,7 +21,7 @@ var bot = mineflayer.createBot({
   host: data.ip,
   username: data.username,
   port: data.port,
-  version: "1.17.1"
+  version: "1.18.0"
   
 });
 
